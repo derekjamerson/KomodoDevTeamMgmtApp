@@ -1,0 +1,12 @@
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\Program\bin\Debug\Program.exe.config
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\Program\bin\Debug\Program.exe
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\Program\bin\Debug\Program.pdb
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\Program\bin\Debug\DeveloperRepo.dll
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\Program\bin\Debug\Library.dll
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\Program\bin\Debug\DeveloperRepo.pdb
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\Program\bin\Debug\Library.pdb
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\Program\obj\Debug\KomodoDevTeamMgmt.Console.csproj.AssemblyReference.cache
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\Program\obj\Debug\KomodoDevTeamMgmt.Console.csproj.CoreCompileInputs.cache
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\Program\obj\Debug\KomodoDevTeamMgmt.Console.csproj.CopyComplete
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\Program\obj\Debug\Program.exe
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\Program\obj\Debug\Program.pdb

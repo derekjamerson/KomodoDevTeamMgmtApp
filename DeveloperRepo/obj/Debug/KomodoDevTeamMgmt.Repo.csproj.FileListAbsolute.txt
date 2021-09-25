@@ -1,0 +1,9 @@
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\DeveloperRepo\bin\Debug\DeveloperRepo.dll
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\DeveloperRepo\bin\Debug\DeveloperRepo.pdb
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\DeveloperRepo\bin\Debug\Library.dll
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\DeveloperRepo\bin\Debug\Library.pdb
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\DeveloperRepo\obj\Debug\KomodoDevTeamMgmt.Repo.csproj.AssemblyReference.cache
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\DeveloperRepo\obj\Debug\KomodoDevTeamMgmt.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\DeveloperRepo\obj\Debug\KomodoDevTeamMgmt.Repo.csproj.CopyComplete
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\DeveloperRepo\obj\Debug\DeveloperRepo.dll
+C:\Users\Derek\source\repos\KomodoDevTeamMgmt\DeveloperRepo\obj\Debug\DeveloperRepo.pdb
